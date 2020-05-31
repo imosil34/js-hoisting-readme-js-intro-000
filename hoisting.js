@@ -15,7 +15,7 @@ function callMe() {
 
 function crazy() {
   // fix the code in here:
-  
+
   thisIsCrazy();
 
     function thisIsCrazy(){
