@@ -15,9 +15,10 @@ function callMe() {
 
 function crazy() {
   // fix the code in here:
+  var thisIsCrazy;
   thisIsCrazy();
 
-  var thisIsCrazy = function crazy(){
+  thisIsCrazy = function (){
     console.log("hey!!!")
   }
 }
